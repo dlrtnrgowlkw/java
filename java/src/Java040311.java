@@ -6,7 +6,7 @@ public class Java040311 {
             System.out.println(plusNums());
             System.out.println(plusNums(4,5));
             int[] intArray = {1,2,3,4,5};
-            System.out.prin t
+            System.out.println();
 
 
         }
